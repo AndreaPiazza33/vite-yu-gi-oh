@@ -17,4 +17,4 @@ export default {
   <AppMain></AppMain>
 </template>
 
-<style></style>
+<style lang="scss"></style>

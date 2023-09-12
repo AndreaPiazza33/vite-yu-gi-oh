@@ -27,15 +27,17 @@ export default {
   </div>
 </template>
 
-<style>
+<style lang="scss">
 .main-container {
   width: 100%;
   background-color: hsl(33.46deg 64.46% 52.55%);
   height: 100vh;
+
+  input {
+    margin: 1rem 10rem;
+  }
 }
-.main-container input {
-  margin: 1rem 10rem;
-}
+
 .cards-container {
   display: flex;
   flex-direction: row;
