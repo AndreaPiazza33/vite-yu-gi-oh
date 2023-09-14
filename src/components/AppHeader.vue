@@ -16,7 +16,7 @@ export default {
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .header-container {
   display: flex;
   flex-direction: row;
